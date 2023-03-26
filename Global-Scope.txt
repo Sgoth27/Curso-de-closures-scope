@@ -1,0 +1,13 @@
+al intentar hacer git push -u orign main salio error. Para solucionar esto se ingreso el siguiente comando
+git pull --rebase origin main
+git push -u origin main 
+
+Que es Scope?
+El alcance que determina la accesibilidad de las variables, los objetos y las funciones.
+
+Tipos de Scope?
+Global
+Function
+Block
+
+5-Curso-de-closures-y-Scope
